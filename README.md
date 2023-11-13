@@ -1,0 +1,2 @@
+# gotypes
+Learn go/types
